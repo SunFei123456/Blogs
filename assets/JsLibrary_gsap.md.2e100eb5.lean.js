@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.cb5c97e4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JsLibrary/gsap.md","filePath":"JsLibrary/gsap.md"}'),p={name:"JsLibrary/gsap.md"},o=l("",33),e=[o];function t(r,c,y,D,F,C){return n(),a("div",null,e)}const b=s(p,[["render",t]]);export{i as __pageData,b as default};

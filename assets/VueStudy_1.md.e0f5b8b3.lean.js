@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,O as n}from"./chunks/framework.cb5c97e4.js";const C=JSON.parse('{"title":"vue2和vue3的区别","description":"","frontmatter":{},"headers":[],"relativePath":"VueStudy/1.md","filePath":"VueStudy/1.md"}'),l={name:"VueStudy/1.md"},o=n("",17),p=[o];function r(t,c,i,u,d,A){return e(),s("div",null,p)}const b=a(l,[["render",r]]);export{C as __pageData,b as default};
